@@ -1,0 +1,4 @@
+touch up_to_date
+git fetch
+git pull
+git push
